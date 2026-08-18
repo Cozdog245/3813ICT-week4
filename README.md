@@ -1,5 +1,23 @@
 # Week4
 
+# Week 4 Angular Tutorial
+
+## Commands Used
+
+### 1. Create the app
+ng new week4
+
+### 2. Install dependencies
+npm install bootstrap --save
+
+### 3. Generate components
+ng generate component home
+ng generate component login
+ng generate component profile
+
+### 4. Serve the application
+ng serve
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.20.
 
 ## Development server
